@@ -23,3 +23,5 @@ Here are some ideas to get you started:
   <img align="left" alt="nunopnfelix's Github Stats" src="https://github-readme-stats-nunopnfelixs-projects.vercel.app/api?username=nunopnfelix&show_icons=true&hifr_border=true" />
 
 </details>
+
+[website]: https://thestatsway.com
