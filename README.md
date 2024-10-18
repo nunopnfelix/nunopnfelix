@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 </details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="nunopnfelix's Github Stats" src "https://github-readme-stats-nunopnfelixs-projects.vercel.app/api?username=nunopnfelix&show_icons=true&hifr_border=true" />
+  <img align="left" alt="nunopnfelix's Github Stats" src="https://github-readme-stats-nunopnfelixs-projects.vercel.app/api?username=nunopnfelix&show_icons=true&hifr_border=true" />
 
 </details>
