@@ -34,4 +34,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nunopnfelix&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="163px"/> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunopnfelix&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150px"/> </p>
 
-##### Note: Top languages is only a metric of the languages my public code.
+##### Note: Top languages is only a metric of the languages that are in my public code.
