@@ -15,7 +15,7 @@
 
 <br>
 
-## Connect with me 💻
+## Connect with me 💻 
 
   </div><!-- Social icons section -->
 <p align="left">
