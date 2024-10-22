@@ -33,5 +33,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nunopnfelix&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="163px"/> </p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunopnfelix&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150px"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nunopnfelix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30px" /> </p>
 
 ##### Note: Top languages is only a metric of the languages that are in my public code.
+
