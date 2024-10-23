@@ -36,4 +36,3 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nunopnfelix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30px" /> </p>
 
 ##### Note: Top languages is only a metric of the languages that are in my public code.
-
