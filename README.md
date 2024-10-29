@@ -31,8 +31,8 @@
 
 ## Github Stats 📊
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nunopnfelix&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" height="164px"/>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunopnfelix&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" height="191px"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=nunopnfelix&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" height="163px"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunopnfelix&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats" height="190px"/>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nunopnfelix&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="30px" /> </p>
 
 ##### Note: Top languages is only a metric of the languages that are in my public code.
