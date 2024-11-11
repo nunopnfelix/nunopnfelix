@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Check out my website about football (soccer) stats analysis, graphs & ratings: [https://thestatsway.com/]
-- 🌱 Focusing on small projetc in R & Python via Jupyter Notebook right now.
+- 🌱 Focusing on small projects in R & Python via Jupyter Notebook right now.
 - ✨ Skillful in R, Python, SQL, Power BI & Excel!
 - ⚡ Data enjoyer.
 <br>
